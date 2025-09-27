@@ -1,4 +1,4 @@
-#   Write a program that takes numbers from the user until the user enters a number greater than 100.
+#   Write a program that takes number from the user until the user enters a number greater than 100.
 total = 0
 while True:
     num = int(input("Enter a number: "))
