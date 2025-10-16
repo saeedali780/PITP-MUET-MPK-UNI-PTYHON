@@ -62,3 +62,39 @@
 #     print("The Result is: ", result)
 # else:
 #     print("Invalid Operator!")
+
+
+# def isPositive(num):
+#     if num > 0:
+#         return f"This Number {num} is Positive"
+#     elif num < 0:
+#         return f"This Number {num} is Negative"
+#     else:
+#         return f"This Number is {num}"
+
+# result = isPositive(-1)
+
+# print(result)
+
+
+# x = 10  # Global variable
+
+# def my_func():
+#   y = 5  # Local variable 
+#   print("Inside function:", y)
+# #   print("Hey this is x from function", x)
+  
+
+# my_func()
+# print("Outside function:", y)
+
+mylist = ["Saeed","Ali","Jerry"]
+
+print(f"List before remove {mylist}")
+
+for user in mylist:
+  if user == "Jerry":
+    print(user)    
+    mylist.remove(user)
+
+print(f"List after remove {mylist}")
