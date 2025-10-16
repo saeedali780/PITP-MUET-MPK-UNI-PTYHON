@@ -102,11 +102,67 @@
 
 # #Question 12
 
-num = 6
+# num = 6
 
-if num > 0:
-    print(f"This Number {num} is Positive")
-elif num < 0:
-    print(f"This Number {num} is Negative")
-else:
-    print(f"This Number is {num}")
+# if num > 0:
+#     print(f"This Number {num} is Positive")
+# elif num < 0:
+#     print(f"This Number {num} is Negative")
+# else:
+#     print(f"This Number is {num}")
+
+
+# #Question 13
+
+# def python_geet ():
+#     print("Hello this is from python") 
+
+# python_geet()
+# #Question 14
+# def printMyName():
+#     myName = input("Enter your Name: ")
+#     print(f"Hey🙋 Dear {myName} Welcome to the Python Hub 🤗")
+
+# printMyName()
+
+# #Question 15
+
+# def greet(userName):
+#     print(f"Hello Dear {userName}")
+# greet("Jerry")
+
+# #Question 16
+
+# def sum(a,b):
+#     return a+b
+# result= sum(3,5)
+# print(result)
+
+#Question 17
+
+# import math
+
+# def square_root(num):
+#     return math.sqrt(num)
+# result = square_root(16)
+# print(result)
+
+
+#Question 18
+# from math import factorial
+
+# def fact(num):
+#     return factorial(num)
+# result = fact(5)
+# print(result)
+
+
+#Question 19
+
+# import random
+
+# def my_func():
+#     y = random.randint(1,5)  # Local variable
+#     print("Random:", y)
+    
+# my_func()
