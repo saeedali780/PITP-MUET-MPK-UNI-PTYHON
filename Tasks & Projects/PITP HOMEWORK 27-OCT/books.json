@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Python Basics",
+        "author": "John Smith",
+        "price": 450
+    },
+    {
+        "title": "Learn JavaScript",
+        "author": "Ali Khan",
+        "price": 600
+    },
+    {
+        "title": "Data Science Guide",
+        "author": "Sara Ahmed",
+        "price": 750
+    }
+]
